@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EbrokerApplication<ebroker>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.nagp.ebroker.EbrokerApplication",
+            "projectName": "ebroker",
+            "args": ""
+        }
+    ]
+}

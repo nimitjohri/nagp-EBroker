@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+ebroker,com.nagp.ebroker.models,BaseResponse,0,17,0,0,0,7,0,5,0,5
+ebroker,com.nagp.ebroker.models,CustomerDTO,0,26,0,0,0,12,0,6,0,6
+ebroker,com.nagp.ebroker.models,EquityDTO,0,26,0,0,0,12,0,6,0,6
+ebroker,com.nagp.ebroker.controllers,EBrokerController,0,171,0,0,0,41,0,7,0,7
+ebroker,com.nagp.ebroker.utils,Helper,2,22,4,4,1,4,4,1,0,1
+ebroker,com.nagp.ebroker.services.impl,EBrokerServiceImpl,1,386,2,28,0,73,2,22,0,9
+ebroker,com.nagp.ebroker,EbrokerApplication,5,3,0,0,2,1,1,1,1,1

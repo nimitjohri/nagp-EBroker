@@ -1,0 +1,6 @@
+com\nagp\ebroker\controllers\EBrokerControllerIntegrationTest.class
+com\nagp\ebroker\EbrokerApplicationTests.class
+com\nagp\ebroker\repositories\CustomerRepositoryTest.class
+com\nagp\ebroker\utils\HelperTest.class
+com\nagp\ebroker\services\impl\EBrokerServiceImplTest.class
+com\nagp\ebroker\controllers\EBrokerControllerTest.class
