@@ -1,3 +1,8 @@
+## Code Coverage ##
+
+![Code Coverage](coverage.JPG)
+
+
 ## 
 URL- localhost:8034
 
@@ -43,6 +48,3 @@ URL- localhost:8034
     example - http://localhost:8034/sell/1/102/3
 
 
-## Code Coverage ##
-
-![Code Coverage](coverage.JPG)
