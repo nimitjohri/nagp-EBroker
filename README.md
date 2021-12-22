@@ -45,4 +45,4 @@ URL- localhost:8034
 
 ## Code Coverage ##
 
-![Code Coverage](coverage.jpg)
+![Code Coverage](coverage.JPG)
